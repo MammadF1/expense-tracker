@@ -1,0 +1,20 @@
+[
+    {
+        "id_number": 1,
+        "amount": 20,
+        "description": "lunch",
+        "date": "16 September 2025"
+    },
+    {
+        "id_number": 3,
+        "amount": 40,
+        "description": "game",
+        "date": "16 September 2025"
+    },
+    {
+        "id_number": 4,
+        "amount": 120,
+        "description": "dinner",
+        "date": "16 September 2025"
+    }
+]
